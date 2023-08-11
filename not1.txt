@@ -1,0 +1,18 @@
+To calculate the average price of the products sold, you need to add up the prices of all the products and then divide by the total number of products. Here's how you can do it:
+
+Add up all the prices:
+Total Price = 10.00 + 15.50 + 8.75 + 20.25 + 12.00
+
+Count the number of products:
+Total Products = 5 (since there are 5 rows in the table)
+
+Calculate the average price:
+Average Price = Total Price / Total Products
+
+Let's do the calculations:
+
+Total Price = 10.00 + 15.50 + 8.75 + 20.25 + 12.00 = 66.50
+Total Products = 5
+Average Price = 66.50 / 5 = 13.30
+
+So, the average price of the products sold is $13.30.
